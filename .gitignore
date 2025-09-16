@@ -1,0 +1,8 @@
+# Ignore environment specific or sensitive files
+config.js
+node_modules/
+dist/
+env.local
+subscribers.json
+package-lock.json
+**/.DS_Store
